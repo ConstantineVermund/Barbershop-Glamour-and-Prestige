@@ -306,7 +306,7 @@ const BGPSite = (() => {
         result.innerHTML = `
           <div class="notice">
             <strong>No reservation found.</strong><br>
-            Check the reservation code and email. This demo stores bookings in this browser only.
+            Check the reservation code and email. Check your reservation code and email, then try again.
           </div>
         `;
         return;
